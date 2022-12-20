@@ -1,6 +1,6 @@
 
 DISCLAIMER:<br />
-This is an experimental fork from Database Lab Engine and it is only intended for testing purpouses.<br />
+This is an experimental fork from Database Lab Engine and it is only intended for testing purposes.<br />
 Some features have been disabled. And some other features may not work. <br />
 In order to find the original working version or for contributions, please, visit https://github.com/postgres-ai/database-lab-engine
 <br /><br /><br />
