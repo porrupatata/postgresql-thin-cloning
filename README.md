@@ -47,9 +47,5 @@ With ZFS, Database Lab Engine periodically creates a new snapshot of the data di
 ## License
 DLE source code is licensed under the OSI-approved open source license GNU Affero General Public License version 3 (AGPLv3).
 
-Reach out to the Postgres.ai team if you want a trial or commercial license that does not contain the GPL clauses: [Contact page](https://postgres.ai/contact).
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpostgres-ai%2Fdatabase-lab-engine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpostgres-ai%2Fdatabase-lab-engine?ref=badge_large)
-
 
 
