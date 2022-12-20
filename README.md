@@ -2,7 +2,7 @@
 DISCLAIMER:<br />
 This is an experimental fork from Database Lab Engine and it is only intended for testing purpouses.<br />
 Some features have been disabled. And some other features may not work. <br />
-You can find the original working version on https://github.com/postgres-ai/database-lab-engine
+In order to find the original working version or for contributions, please, visit https://github.com/postgres-ai/database-lab-engine
 <br /><br /><br />
 <div align="center">
   <strong>:zap: Blazing-fast cloning of PostgreSQL databases :elephant:</strong><br>
