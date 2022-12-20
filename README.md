@@ -1,14 +1,15 @@
-
-DISCLAIMER:<br />
-This is an experimental fork from Database Lab Engine and it is only intended for testing purposes.<br />
-Some features have been disabled. And some other features may not work. <br />
-In order to find the original working version or for contributions, please, visit https://github.com/postgres-ai/database-lab-engine
-<br /><br /><br />
 <div align="center">
   <strong>:zap: Blazing-fast cloning of PostgreSQL databases :elephant:</strong><br>
   Thin clones of PostgreSQL to build powerful development, test, QA, and staging environments.<br>
   Available for any PostgreSQL
 </div>
+<br /><br /><br />
+DISCLAIMER:<br />
+This is an experimental fork from Database Lab Engine and it is only intended for testing purposes.<br />
+Some features have been disabled. And some other features may not work. <br />
+In order to find the original working version or for contributions, please, visit https://github.com/postgres-ai/database-lab-engine
+
+
 
 <br />
 
